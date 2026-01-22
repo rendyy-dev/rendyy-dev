@@ -1,27 +1,42 @@
-## Hi, I'm Rendy 👋
+<h2 align="center">Hi, I'm Rendy 👋</h2>
 
-I'm a student and web developer with a focus on backend development using Laravel.
+<p align="center">
+  <em>Student & Web Developer • Internship (PKL)</em>
+</p>
 
-### 🔧 Tech Stack
-- Laravel (PHP)
-- MySQL
-- Tailwind CSS
-- Git & GitHub
-
-### 📌 What I'm Working On
-- Secure authentication systems
-- User management features
-- Improving backend logic & validation
-
-### 🌱 Currently
-- Internship (PKL)
-- Learning best practices in web development
-- Improving technical English
-
-### 📂 Featured Project
-- 🔐 **Laravel Authentication & User Management System**  
-  A secure auth system with professional validation and role-based access control.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Laravel+Backend+Developer;Building+Secure+Authentication+Systems;Always+Learning+%26+Improving" />
+</p>
 
 ---
 
-📫 Feel free to check my repositories and follow my learning journey.
+### 🚀 About Me
+- Focused on backend development using Laravel  
+- Building secure authentication & user management systems  
+- Interested in clean code and backend logic  
+
+---
+
+### 🧠 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,tailwind,git,github" />
+</p>
+
+---
+
+### 📌 Featured Project
+🔐 **Laravel Authentication & User Management System**  
+Secure authentication system with professional validation and role-based access control.
+
+---
+
+### 🌱 Currently
+- Internship (PKL)  
+- Improving Laravel backend skills  
+- Learning technical English  
+
+---
+
+<p align="center">
+  <em>Thanks for visiting my profile 🙌</em>
+</p>
