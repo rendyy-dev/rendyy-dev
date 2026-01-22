@@ -11,9 +11,11 @@
 ---
 
 ### 🚀 About Me
+I enjoy turning complex backend problems into simple and secure solutions.
+
 - Focused on backend development using Laravel  
 - Building secure authentication & user management systems  
-- Interested in clean code and backend logic  
+- Care about validation, access control, and clean code  
 
 ---
 
@@ -26,7 +28,7 @@
 
 ### 📌 Featured Project
 🔐 **Laravel Authentication & User Management System**  
-Secure authentication system with professional validation and role-based access control.
+A secure authentication system designed with professional validation, role-based access control, and clear backend logic.
 
 ---
 
