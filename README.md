@@ -80,7 +80,7 @@ Goal: build a simple but scalable **fashion e-commerce system**.
 ## 📫 Connect With Me
 
 <p>
-<a href="https://github.com/YOUR_USERNAME">GitHub</a>
+<a href="https://github.com/rendyy-dev">GitHub</a>
 </p>
 
 ---
