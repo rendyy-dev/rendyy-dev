@@ -5,37 +5,39 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Laravel+Backend+Developer;Building+Secure+Authentication+Systems;Always+Learning+%26+Improving" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Focused+Web+Developer;Building+Modern+Web+Interfaces;Laravel+for+Fullstack+Development;Always+Learning+%26+Improving" />
 </p>
 
 ---
 
 ### 🚀 About Me
-I enjoy turning complex backend problems into simple and secure solutions.
+I enjoy building clean, simple, and useful web applications.
 
-- Focused on backend development using Laravel  
-- Building secure authentication & user management systems  
-- Care about validation, access control, and clean code  
+- Focused on **Frontend Web Development**
+- Build fullstack applications using **Laravel**
+- Interested in **UI, usability, and clean code**
+- Always learning and improving my development workflow
 
 ---
 
 ### 🧠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,laravel,php,mysql,git,github" />
 </p>
 
 ---
 
 ### 📌 Featured Project
-🔐 **Laravel Authentication & User Management System**  
-A secure authentication system designed with professional validation, role-based access control, and clear backend logic.
+🛍 **Laravel Fashion E-Commerce (MVP)**  
+A modular Laravel web application with product management, categories, and a public storefront built using Blade.
 
 ---
 
 ### 🌱 Currently
-- Internship (PKL)  
-- Improving Laravel backend skills  
-- Learning technical English  
+- Internship (PKL)
+- Improving **Frontend Development skills**
+- Building projects with **Laravel (Fullstack)**
+- Learning **technical English for developers**
 
 ---
 
